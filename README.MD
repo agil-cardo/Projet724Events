@@ -22,15 +22,15 @@ Le site sera accessible à l'adresse <http://localhost:3000> dans votre navigate
 
 ## Pour éteindre le projet
 Assurez vous d'être dans le dossier du projet (là où se trouve le fichier docker-compose.yml)
-'docker-compose down'
+`docker-compose down`
 
 ## Fin de travail
 
 Si vous ne revenez pas sur le projet, vous avez la possibilité de supprimer les fichiers et images Docker afin de récupérer la place
 
-'docker system prune -a'
+`docker system prune -a`
 
-'=> tapez Y puis Entrée'
+`=> tapez Y puis Entrée`
 
 ## Tests
 
